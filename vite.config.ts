@@ -2,7 +2,7 @@ import vue from '@vitejs/plugin-vue'
 
 export default {
   rollupOptions: {
-    input: 'src/main.js',
+    input: 'src/main.ts',
     format: 'system',
     preserveEntrySignatures: true
   },
