@@ -2,6 +2,8 @@
 
 This project replaces JavaScript with TypeScript in https://github.com/joeldenning/vite-single-spa-example , a vite application that functions as a single-spa application.
 
+*React example: https://github.com/YHhaoareyou/vite-single-spa-ts-react-example*
+
 ## Local dev
 
 ```sh
