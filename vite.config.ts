@@ -10,7 +10,7 @@ export default defineConfig(({ mode }) => {
   const publicAssetsBaseUrl =
     mode === "production"
       ? parsed.VITE_MF_VUE_PROD_DOMAIN + "/"
-      : "http://localhost:3000/";
+      : "http://localhost:3001/";
 
   return {
     root: "./src",
